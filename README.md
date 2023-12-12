@@ -1,4 +1,4 @@
-# String-Frequency-Calculator-C-
+# String Frequency Calculator in C++
 A fairly basic program, as far as programs go. 
 
 # What it does
